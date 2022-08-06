@@ -30,7 +30,7 @@ session_start();
 					{
 
 						$_SESSION['user_id'] = $user_data['user_id'];
-						header("Location: panicap2/index.php");
+						header("Location: index.php");
 						die;
 					}
 				}
