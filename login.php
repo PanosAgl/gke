@@ -53,6 +53,10 @@ session_start();
 </head>
 <body>
 
+	
+	<h1 style=”text-align:center;”>KUBERNETES</h1>
+	<p style=”text-align:center;”>ΘΑ ΠΑΡΟΥΜΕ ΠΤΥΧΙΟ;.</p>
+	
 	<style type="text/css">
 	
 	#text{
