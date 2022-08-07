@@ -8,5 +8,5 @@ if(isset($_SESSION['user_id']))
 
 }
 
-header("Location: panicap2/login.php");
+header("Location: login.php");
 die;
