@@ -21,7 +21,7 @@ session_start();
 
 			mysqli_query($con, $query);
 
-			header("Location: panicap2/login.php");
+			header("Location: login.php");
 			die;
 		}else
 		{
